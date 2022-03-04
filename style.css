@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&family=Bakbak+One&family=Roboto:ital@1&family=Bebas+Neue&family=League+Gothic&family=Ephesis&family=Yantramanav:wght@100&display=swap');
+.blogItem{
+    margin: 20px;
+    font-family: 'Fira Sans' , sans-serif;
+ } 
+ 
+ .blogContainer{
+     background-color: #af5353;
+     width: 100%;
+     height: 100%;
+ }
+ .blogContainer h1{
+     font-family: 'Bakbak One', cursive;
+     margin: 23px;
+ }
+ 
+ .blogContainer p{
+     font-family: 'Yantramanav', sans-serif;; 
+ }
+ img.jspk{
+    margin-bottom: 388px;
+    height: 20vh;
+    width: 22vw;
+    margin-left: 187px;
+}
+
+.blogContainer h1{
+    font-family: 'Bakbak One', cursive;;
+    font-size: 39px;
+    margin-left: 72px;
+    margin-top: 60px;
+    background: -webkit-linear-gradient(#eb0606,#9df3ec);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.jsp-header {
+    margin-left: 43px;
+    color: rgb(154, 243, 11);
+    margin-top: -529px;
+    margin-bottom: 10px;
+}
+
+.jsp-header h2 {
+	color: rgb(154, 243, 11);
+}
+
+.links {
+    color:rgb(197, 250, 6);
+    margin-left: -200px;
+    }
+    
+    .bton {
+        display: inline-block;
+    padding: 3px 14px;
+    transition: all .4s ease-in-out;
+    border-radius: 9px;
+    color: rgb(253 251 251);
+    background-color: #fa4120;
+    border-color: tomato;
+    font-family: 'Fira Sans' , sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    margin: -38px -210px;
+    margin-left: 224px;
+    margin-bottom: 16px;
+    margin-top: 0px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 166ms ease-in-out red, 150ms ease-in-out green;
+    }
+    
+    .btn-sm{
+        font-size: 19px;
+        padding: 7px 13px;
+        margin-left: 223px;
+        margin-bottom: 11px;
+    }
+    
+    .links button:hover {
+    background-color: dodgerblue;
+    border-color: rgb(197, 250, 6);
+    color: rgb(252, 252, 252);
+    }
+
+    .jsp-about h3{
+        background: -webkit-linear-gradient(#05f3a4,#fdfdfd);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-family: 'Bakbak One', cursive;
+        font-size: 23px;
+    }
+
+    .jsp-about p{
+        font-family: 'Yantramanav', sans-serif; 
+        color:rgb(253, 252, 252);
+        margin: 107px;
+        margin-left: 15px;
+        margin-top: 7px;
+    }
+
+    img.jspk-m{
+        margin-top: -99px;
+        height: 250px;
+        padding: 67px;
+        width: 249px;
+        margin-left: -1px;
+    }
+
+    .intro{
+        background-color: black;
+    }
+    
+    .info {
+        color: rgb(243, 8, 212);
+        margin-bottom: -141px;
+        margin-top: 60px;
+        margin-left: 1080px;
+    }
+    
+    .pspkmovies p{
+        font-family: 'Yantramanav', sans-serif;; 
+        color:rgb(252, 249, 249);
+        margin: -7px;
+        margin-left: 15px;
+        margin-top: 7px;
+    }
+    
+    .jsp_politics p{
+        font-family: 'Yantramanav', sans-serif;; 
+        color:rgb(250, 248, 248);
+        margin: 5px;
+        margin-left: 15px;
+        margin-top: 7px;
+    }
+    
+    .jsp_politics, .pspkmovies h4{
+        color: white;
+    
+    }
+    
+    .blogContainer {
+        background-color: #370bf8;;
+    }
+
